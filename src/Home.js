@@ -12,14 +12,14 @@ function Home() {
 				/>
 				<div className="home__row">
 					<Product
-						id="220021"
+						id="000012"
 						title="Capitalism Realism by Mark Fisher"
 						price={29.99}
 						image={'https://media.s-bol.com/mAq1W4nB1JE/510x840.jpg'}
 						rating={5}
 					/>
 					<Product
-						id="1514785"
+						id="000013"
 						title="Leninade Soviet Style Soda (12 OZ)"
 						price={5.99}
 						image={
@@ -30,7 +30,7 @@ function Home() {
 				</div>
 				<div className="home__row">
 					<Product
-						id="123485"
+						id="000014"
 						title="Russian Legacy Semyonovskaya 30 Piece Matryoshka"
 						price={149.99}
 						image={
@@ -39,7 +39,7 @@ function Home() {
 						rating={5}
 					/>
 					<Product
-						id="1844785"
+						id="000015"
 						title="UpCrafts Soviet Poster - Don't Talk! - (24x36, Unframed Poster Prints)"
 						price={12.99}
 						image={
@@ -48,7 +48,7 @@ function Home() {
 						rating={4}
 					/>
 					<Product
-						id="1514125"
+						id="000016"
 						title="SIBERHAT Russian Soviet Army Fur Military Cossack Winter Ushanka Hat Black XL (62))"
 						price={35.99}
 						image={
@@ -59,7 +59,7 @@ function Home() {
 				</div>
 				<div className="home__row">
 					<Product
-						id="1514125"
+						id="000017"
 						title="GeekPuzzle Kremlin Puzzle 2000 pcs"
 						price={89.99}
 						image={'https://assets.puzzlefactory.pl/puzzle/169/825/original.jpg'}
