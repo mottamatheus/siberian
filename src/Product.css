@@ -31,13 +31,16 @@
 }
 
 .product > button {
-	background: #f0c14b;
+	font-family: 'Russo One', sans-serif;
+	text-transform: uppercase;
+	font-weight: 400;
+	background: #ff2c28;
 	border: 1px solid;
 	margin-top: 10px;
-	border-color: #a88734 #9c7e31 #846a29;
-	color: #111;
+	border-color: #ff2c28 #a13937 #961210;
+	color: #fafafa;
 	padding: 7px 10px;
-	border-radius: 5px;
+	border-radius: 3px;
 }
 
 .product > img {

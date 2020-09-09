@@ -7,7 +7,7 @@ import { useStateValue } from './StateProvider';
 import { formatMs } from '@material-ui/core';
 
 function Header() {
-	const [ state, dispatch ] = useStateValue();
+	const [ { basket }, dispatch ] = useStateValue();
 	return (
 		<div className="header">
 			<Link to="/">
@@ -38,7 +38,9 @@ function Header() {
 				<Link to="/checkout">
 					<div className="header__optionBasket">
 						<ShoppingBasketIcon />
-						<span className="header__optionLineTwo header__basketCount">{/* */}</span>
+						<span className="header__optionLineTwo header__basketCount">
+							{basket.length}
+						</span>
 					</div>
 				</Link>
 			</div>
