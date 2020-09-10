@@ -1,0 +1,76 @@
+.login {
+	height: 80vh;
+	display: grid;
+	justify-items: center;
+	align-items: center;
+}
+
+.login__container {
+	width: 300px;
+	display: grid;
+	justify-content: center;
+	border-radius: 5px;
+	border: 1px solid #fafafa;
+	padding: 40px 20px;
+	background-color: #fff;
+	color: #313131;
+}
+
+.login__container > h1 {
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.login__container > form > input {
+	height: 25px;
+	width: 95%;
+}
+
+.login__input > h5 {
+	margin: 5px 0;
+}
+
+.login__button {
+	display: grid;
+	font-size: 12px;
+	font-family: 'Russo One', sans-serif;
+	text-transform: uppercase;
+	font-weight: 400;
+	background: #ff2c28;
+	border: 1px solid;
+	margin: 15px auto;
+	margin-top: 30px;
+	border-color: #ff2c28 #a13937 #961210;
+	color: #fafafa;
+	padding: 7px 10px;
+	border-radius: 3px;
+}
+
+.login__link {
+	height: 100%;
+}
+
+.login__image {
+	object-fit: contain;
+	width: 300px;
+	margin: 50px auto;
+}
+
+.login__newAccount {
+	font-size: 12px;
+	padding: 7px;
+	border: 1px;
+	outline: none;
+	border-radius: 3px;
+	border-color: #313131;
+	font-weight: 400;
+	font-family: 'Russo One', sans-serif;
+	color: #ff2c28;
+	text-transform: uppercase;
+	transition: all 0.5s ease 0s;
+}
+.login__newAccount:hover {
+	cursor: pointer;
+	background-color: #ff2c28;
+	color: #fff;
+}
