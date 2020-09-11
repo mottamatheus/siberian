@@ -32,7 +32,7 @@
 
 .login__button {
 	display: grid;
-	font-size: 12px;
+	font-size: 14px;
 	font-family: 'Russo One', sans-serif;
 	text-transform: uppercase;
 	font-weight: 400;
@@ -68,6 +68,9 @@
 	color: #ff2c28;
 	text-transform: uppercase;
 	transition: all 0.5s ease 0s;
+	width: fit-content;
+	display: flex;
+	justify-self: center;
 }
 .login__newAccount:hover {
 	cursor: pointer;
