@@ -60,7 +60,9 @@ function Payment() {
             );
         };
     }, [basket]);
-
+    console.log(
+        `Sitting on a secret: ${clientSecret}`
+    );
     const handleSubmit = async (event) => {
         // stripe
         event.preventDefault();
