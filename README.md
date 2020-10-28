@@ -6,4 +6,18 @@
 
 The Siberian web commerce is a React communist version of Amazon. It was built during the Clever Programmer's React Challenge, first as an Amazon clone, and then personalized with the brand "Siberian" created by me.
 
-The concept "what if Amazon was from the USSR (which never fell apart)?".
+---
+
+## Technologies:
+
+-   Full User Interface with React JS
+-   Basket page/functionality with React Context API
+-   Deployment to Firebase
+-   Complete checkout screen functionaliy with ReactJS
+-   Full Login Functionality with Google Firebase Authentication
+-   Connect Front End to Firestore DB
+-   Checkout and Payment page with Stripe frontend
+-   Deploy Cloud functions to process Payments
+-   Stored orders for logged in user
+
+---

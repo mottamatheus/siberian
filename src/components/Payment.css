@@ -30,3 +30,16 @@
     color: #e62f2f;
     transition: all 0.2s ease;
 }
+
+.payment__button {
+    font-family: "Russo One", sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    background: #ff2c28;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #ff2c28 #a13937 #961210;
+    color: #fafafa;
+    padding: 7px 10px;
+    border-radius: 3px;
+}

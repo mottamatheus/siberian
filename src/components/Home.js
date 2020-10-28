@@ -6,10 +6,7 @@ function Home() {
     return (
         <div className="home">
             <div className="home__container">
-                <img
-                    className="home__image"
-                    src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
-                />
+                <img className="home__image" src="https://i.ibb.co/vHJg37g/banner.jpg" />
                 <div className="home__row">
                     <Product
                         id="000012"
@@ -27,7 +24,7 @@ function Home() {
                         image={
                             "https://images.freshop.com/00052428300071/344f4ea8bae46f5f15d675d9c3dcf0fa_large.png"
                         }
-                        rating={4}
+                        rating={3}
                     />
                 </div>
                 <div className="home__row">
@@ -51,7 +48,7 @@ function Home() {
                     />
                     <Product
                         id="000016"
-                        title="SIBERHAT Russian Soviet Army Fur Military Cossack Winter Ushanka Hat Black XL (62))"
+                        title="SIBERHAT Russian Soviet Army Fur Military Cossack Winter Ushanka Hat Black XL (62)"
                         price={35.99}
                         image={
                             "https://images-na.ssl-images-amazon.com/images/I/61N0luNxKmL._AC_UL1000_.jpg"
@@ -65,6 +62,15 @@ function Home() {
                         title="GeekPuzzle Kremlin Puzzle 2000 pcs"
                         price={89.99}
                         image={"https://assets.puzzlefactory.pl/puzzle/169/825/original.jpg"}
+                        rating={5}
+                    />
+                    <Product
+                        id="000018"
+                        title="Real Siberian Bearskin Rug 58 x 72"
+                        price={889.99}
+                        image={
+                            "https://www.renioclark-shop.com/WebRoot/Store2/Shops/63592071/5432/ECA6/0DC4/5BEF/3AD8/C0A8/2BBA/327A/Winter_home_Braunbarfell_vorleger_ml.jpg"
+                        }
                         rating={5}
                     />
                 </div>
