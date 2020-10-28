@@ -7,7 +7,7 @@
 The Siberian web commerce is a React communist version of Amazon. It was built during the Clever Programmer's React Challenge, first as an Amazon clone, and then personalized with the brand "Siberian" created by me.
 
 <p align="center">
-<img src="https://im7.ezgif.com/tmp/ezgif-7-219a3cfc1669.gif" width="500" >
+<img src="https://media2.giphy.com/media/rhkYiRMWbKMUnadkfG/giphy.gif" width="500" >
 </p>
 ---
 
