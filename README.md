@@ -2,6 +2,13 @@
 <img src="https://user-images.githubusercontent.com/70399238/92873144-1989ba80-f3dd-11ea-8ee0-8f5db6bed1d0.png" width="500" >
 </p>
 
+<p align="center">	
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mottamatheus/siberian">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mottamatheus/siberian">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
+  
+</p>
+
 ## Overview
 
 The Siberian web commerce is a React communist version of Amazon. It was built during the Clever Programmer's React Challenge, first as an Amazon clone, and then personalized with the brand "Siberian" created by me.
